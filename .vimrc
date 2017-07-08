@@ -24,6 +24,7 @@ Plug 'leafgarland/typescript-vim'
 Plug 'tpope/vim-fugitive'
 Plug 'mhinz/vim-signify'
 Plug 'bling/vim-bufferline'
+Plug 'vim-syntastic/syntastic'
 call plug#end()
 
 "start signify
