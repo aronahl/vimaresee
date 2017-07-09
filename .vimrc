@@ -25,6 +25,7 @@ Plug 'tpope/vim-fugitive'
 Plug 'mhinz/vim-signify'
 Plug 'bling/vim-bufferline'
 Plug 'vim-syntastic/syntastic'
+Plug 'tpope/vim-surround'
 call plug#end()
 
 "start syntastic
