@@ -41,6 +41,8 @@ let g:syntastic_typescript_checkers = ['tslint']
 let g:syntastic_enable_typescript_checker = 1
 let g:syntastic_html_checkers = ['tidy']
 let g:syntastic_enable_html_checker = 1
+let g:syntastic_javascript_checkers = ['jslint']
+let g:syntastic_enable_javascript_checker = 1
 
 "start signify
 let g:signify_realtime = 1
