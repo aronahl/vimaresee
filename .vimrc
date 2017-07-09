@@ -36,8 +36,11 @@ let g:syntastic_auto_loc_list = 1
 let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 let g:syntastic_python_checkers = ['pylint']
+let g:syntastic_enable_python_checker = 1
 let g:syntastic_typescript_checkers = ['tslint']
 let g:syntastic_enable_typescript_checker = 1
+let g:syntastic_html_checkers = ['tidy']
+let g:syntastic_enable_html_checker = 1
 
 "start signify
 let g:signify_realtime = 1
