@@ -17,4 +17,4 @@ Using vim-plug to install:
 ## Usage
 1. clone to root dir
 2. open vim
-3. :PlugiInstall
+3. :PlugInstall
