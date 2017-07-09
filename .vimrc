@@ -45,6 +45,7 @@ let g:syntastic_javascript_checkers = ['jslint']
 let g:syntastic_enable_javascript_checker = 1
 let g:syntastic_css_checkers = ['csslint']
 let g:syntastic_enable_css_checker = 1
+let g:syntastic_mode_map = { "mode": "passive"}
 
 "start signify
 let g:signify_realtime = 1
