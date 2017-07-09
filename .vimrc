@@ -43,6 +43,8 @@ let g:syntastic_html_checkers = ['tidy']
 let g:syntastic_enable_html_checker = 1
 let g:syntastic_javascript_checkers = ['jslint']
 let g:syntastic_enable_javascript_checker = 1
+let g:syntastic_css_checkers = ['csslint']
+let g:syntastic_enable_css_checker = 1
 
 "start signify
 let g:signify_realtime = 1
